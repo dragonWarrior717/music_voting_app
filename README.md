@@ -49,8 +49,8 @@ A modern web application built with Laravel and Vue.js that allows users to vote
 ### Backend Setup
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone https://github.com/dragonWarrior717/music_voting_app.git
+cd music_voting_app
 ```
 
 2. Install PHP dependencies:
